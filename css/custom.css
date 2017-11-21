@@ -1,1 +1,10 @@
 /*! Place your custom styles here */
+h1 {
+font-size: 4em;
+}
+.lead {
+font-size: 1.5em;
+}
+.h5 {
+font-size: 1.2em;
+}
